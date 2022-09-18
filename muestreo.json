@@ -6,4 +6,9 @@
   {"url":"parlante.wav","type":"audio","bank":"mabs","n":4},
   {"url":"hoja-seca.wav","type":"audio","bank":"mabs","n":5},
   {"url":"ave2.wav","type":"audio","bank":"mabs","n":6}
+  {"url":"do.wav","type":"audio","bank":"mabs","n":7}
+  {"url":"re.wav","type":"audio","bank":"mabs","n":8}
+  {"url":"fa.wav","type":"audio","bank":"mabs","n":9}
+  {"url":"sol.wav","type":"audio","bank":"mabs","n":10}
+  {"url":"la.wav","type":"audio","bank":"mabs","n":11}
 ]
